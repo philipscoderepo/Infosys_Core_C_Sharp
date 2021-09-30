@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Counting": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
