@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OrderOfOperations/1.0.0": {
+        "runtime": {
+          "OrderOfOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderOfOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

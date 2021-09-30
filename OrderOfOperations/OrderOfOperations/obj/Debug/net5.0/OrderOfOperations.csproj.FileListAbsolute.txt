@@ -1,0 +1,16 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\ref\OrderOfOperations.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\bin\Debug\net5.0\OrderOfOperations.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\ref\OrderOfOperations.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\OrderOfOperations\OrderOfOperations\obj\Debug\net5.0\OrderOfOperations.genruntimeconfig.cache

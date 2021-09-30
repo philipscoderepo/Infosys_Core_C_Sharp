@@ -1,0 +1,17 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\invoices.dat
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ref\ProcessInvoices.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\bin\Debug\net5.0\ProcessInvoices.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ref\ProcessInvoices.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\ProcessInvoices\ProcessInvoices\obj\Debug\net5.0\ProcessInvoices.genruntimeconfig.cache
