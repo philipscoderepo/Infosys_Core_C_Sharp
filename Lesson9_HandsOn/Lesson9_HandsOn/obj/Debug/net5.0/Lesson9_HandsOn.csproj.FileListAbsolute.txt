@@ -1,0 +1,16 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\ref\Lesson9_HandsOn.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\bin\Debug\net5.0\Lesson9_HandsOn.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\ref\Lesson9_HandsOn.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\Lesson9_HandsOn\Lesson9_HandsOn\obj\Debug\net5.0\Lesson9_HandsOn.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\ref\EngineeringEmployee.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\bin\Debug\net5.0\EngineeringEmployee.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\ref\EngineeringEmployee.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EngineeringEmployee\EngineeringEmployee\obj\Debug\net5.0\EngineeringEmployee.genruntimeconfig.cache
