@@ -1,0 +1,32 @@
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.exe
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.deps.json
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.json
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.dev.json
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.dll
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.pdb
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.csproj.AssemblyReference.cache
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfoInputs.cache
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfo.cs
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.csproj.CoreCompileInputs.cache
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.dll
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.pdb
+C:\Users\patas\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.genruntimeconfig.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\bin\Debug\net5.0\EmployeePractice.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\EmployeePractice\employeepractice\obj\Debug\net5.0\EmployeePractice.genruntimeconfig.cache
