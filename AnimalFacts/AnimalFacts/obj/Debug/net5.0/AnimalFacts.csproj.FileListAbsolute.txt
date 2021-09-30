@@ -1,0 +1,16 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\ref\AnimalFacts.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\bin\Debug\net5.0\AnimalFacts.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\ref\AnimalFacts.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\AnimalFacts\AnimalFacts\obj\Debug\net5.0\AnimalFacts.genruntimeconfig.cache
