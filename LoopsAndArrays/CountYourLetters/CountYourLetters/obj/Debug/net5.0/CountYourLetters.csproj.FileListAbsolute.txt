@@ -1,0 +1,16 @@
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.exe
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.deps.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.dev.json
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\bin\Debug\net5.0\CountYourLetters.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.csproj.AssemblyReference.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.AssemblyInfoInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.AssemblyInfo.cs
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.csproj.CoreCompileInputs.cache
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.pdb
+C:\Users\patas\OneDrive\Documents\Dev\Infosys Training\LoopsAndArrays\CountYourLetters\countyourletters\obj\Debug\net5.0\CountYourLetters.genruntimeconfig.cache
